@@ -11,7 +11,7 @@ With this tool you can measure S3's performance from any location, using differe
 
 ## Usage
 
-### Download
+## Download
 
 #### macOS
 ```
